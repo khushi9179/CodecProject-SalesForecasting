@@ -3,9 +3,9 @@
 A complete sales analysis & forecasting project using a cleaned Walmart dataset. This repo contains an interactive Excel dashboard (KPIs, Pivot charts, slicers), with EDA and time-series forecasting using Prophet, LSTM, and SARIMAX. Visual outputs from the notebook are included as screenshots to provide actionable business insights.
 
 ##  The project includes:
-Exploratory Data Analysis(EDA): For understanding sales patterns and correlations. 
-Time-Series Forecasting Models: Prophet, SARIMAX, and LSTM for future sales prediction.
-Excel Dashboard: With KPIs, charts, and slicers for interactive analysis.
+* Exploratory Data Analysis(EDA): For understanding sales patterns and correlations. 
+* Time-Series Forecasting Models: Prophet, SARIMAX, and LSTM for future sales prediction.
+* Excel Dashboard: With KPIs, charts, and slicers for interactive analysis.
 Visual Documentation with screenshots of analysis and results.
 
 ##  Dataset Used 
