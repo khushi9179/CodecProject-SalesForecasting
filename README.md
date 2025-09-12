@@ -10,7 +10,7 @@ Visual Documentation with screenshots of analysis and results.
 
 ##  Dataset Used 
 **Dataset used from [Kaggle]** : Walmart dataset (train.csv, stores.csv, features.csv) — *(cleaned and combined).*     
-<a href=https://docs.google.com/spreadsheets/d/1Kbrbc9CQBTZNV220YzsPlV9dwtfEG6Kb/edit?usp=sharing&ouid=116900853174133008630&rtpof=true&sd=true> **View Walmart Dataset** </a>
+[**View Walmart Dataset**](https://docs.google.com/spreadsheets/d/1Kbrbc9CQBTZNV220YzsPlV9dwtfEG6Kb/edit?usp=sharing&ouid=116900853174133008630&rtpof=true&sd=true)
 
 ##  Dataset Details
 The dataset contains the following fields:
