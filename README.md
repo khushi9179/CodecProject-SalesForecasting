@@ -1,4 +1,4 @@
-# Codectechnologies-Intern-SalesForecasting
+# Codectechnologies-Project
 # 📊 Walmart Sales Forecasting
 A complete sales analysis & forecasting project using a cleaned Walmart dataset. This repo contains an interactive Excel dashboard (KPIs, Pivot charts, slicers), with EDA and time-series forecasting using Prophet, LSTM, and SARIMAX. Visual outputs from the notebook are included as screenshots to provide actionable business insights.
 
